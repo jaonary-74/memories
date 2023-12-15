@@ -1,1 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/__xb4cFP)
+## Installation and usage
+
+**1. Make sure you have Node.js installed on your machine**
+
+**2. Clone this repository**
+
+    https://github.com/hei-school/cc-d4-rice-cooker-ci-jaonary-74.git
+
+**3. Go to the project directory :**
+
+    cd cc-d4-rice-cooker-ci-jaonary-74
+
+**4. Run with this command : **
+
+    node main.js

@@ -8,11 +8,11 @@
 
 **3. Go to the project directory :**
 
-    cd cc-d4-rice-cooker-ci-jaonary-74
+    cd cc-d4-rice-cooker-ci-jaonary-74/src
 
 **4. Run with this command :**
 
-    node main.js
+    node RiceCooker.js
 
 ## Test
 `To run the test, you'll need to install the following dependencies:
@@ -35,3 +35,7 @@ shell**
 shell**
 
     npm install prompt-sync
+
+**5. Run with this command :**
+
+    npx mocha RiceCooker.test.js   

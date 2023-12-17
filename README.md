@@ -10,7 +10,7 @@
 
     cd cc-d4-rice-cooker-ci-jaonary-74
 
-**4. Run with this command : **
+**4. Run with this command :**
 
     node main.js
 
